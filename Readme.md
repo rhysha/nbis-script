@@ -27,7 +27,8 @@ Run the following script to download TIFF fingerprint images:
 
 ## Step 3: Process Fingerprint Images
 ```sh
-./images/run_nbis.sh
+cd images/
+./run_nbis.sh
 ```
 
 
