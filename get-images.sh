@@ -18,7 +18,7 @@ do
 done
 
 # remove directories
-rm -rf images/
+# rm -rf images/
 
 # extract files
 for i in `seq 1 4`
