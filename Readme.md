@@ -6,14 +6,11 @@ This guide provides step-by-step instructions for setting up and running the NBI
 
 ## Step 1: Set Up NBIS Binary Path
 
-Modify your `PATH` environment variable to include the location where you have placed your NBIS binary:
+Modify your `PATH` environment variable in `nbis-env.sh` to include the location where you have placed your NBIS binary:
 
 ```sh
 export PATH=$PATH:/path/to/your/nbis/build/bin
 ```
-
-Replace /path/to/your/nbis/build/bin with the actual directory where your NBIS binaries are stored.
-
 
 ## Step 2: Download Fingerprint Images
 
