@@ -11,6 +11,11 @@ Modify your `PATH` environment variable in `nbis-env.sh` to include the location
 ```sh
 export PATH=$PATH:/path/to/your/nbis/build/bin
 ```
+then
+
+```sh
+source nbis-env.sh
+```
 
 ## Step 2: Download Fingerprint Images
 
