@@ -1,10 +1,4 @@
-Step 1 : change export PATH=$PATH:/home/rhythm/nbis/build/bin to where you have put your nbis binary
 
-Step 2 : run get-images.sh to download tif fingerprint images
-
-Step 3 : run images/run_nbis.sh for Converting TIFF images to WSQ format, Checking quality of WSQ images through NFIQ, Extracting features from fingerprints through MINDTCT, Performing fingerprint matches through BOZORTH3
-
-ENJOY 
 
 # NBIS Fingerprint Processing Guide
 
@@ -35,8 +29,10 @@ Run the following script to download TIFF fingerprint images:
 ```
 
 
-This script performs the following tasks:
-Converts TIFF images to WSQ format.
-Checks quality of WSQ images using NFIQ.
-Extracts features from fingerprints using MINDTCT.
-Performs fingerprint matching using BOZORTH3.
+- This script performs the following tasks:
+  * Converts TIFF images to WSQ format.
+  * Checks quality of WSQ images using NFIQ.
+  * Extracts features from fingerprints using MINDTCT.
+  * Performs fingerprint matching using BOZORTH3.
+
+### ENJOY 
